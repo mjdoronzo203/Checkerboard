@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#header{
+	margin: 0 auto;
+	text-align: center;
+}
+
+#board{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.rowoneblack{
+	background-color: black;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+}
+
+.rowonered{
+	background-color: red;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+}
+
+.rowtwoblack{
+	background-color: black;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+}
+
+.rowtwored{
+	background-color: red;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+}
